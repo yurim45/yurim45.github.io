@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-10T22:23:41+09:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">[기술면접 준비] 💡좋은 코드란?</title><link href="/blog/2021/06/10/Dev-common-sense.html" rel="alternate" type="text/html" title="[기술면접 준비] 💡좋은 코드란?" /><published>2021-06-10T00:00:00+09:00</published><updated>2021-06-10T00:00:00+09:00</updated><id>/blog/2021/06/10/Dev-common-sense</id><content type="html" xml:base="/blog/2021/06/10/Dev-common-sense.html">&lt;h1 id=&quot;-좋은-코드란-무엇인가&quot;&gt;🌈 좋은 코드란 무엇인가?&lt;/h1&gt;
+
+&lt;p&gt;모든 개발자가 좋은 코드를 작성하고 싶어한다. 사람마다 &lt;span style=&quot;color:blue&quot;&gt;&lt;strong&gt;좋은 코드&lt;/strong&gt;&lt;/span&gt;의 기준이 조금씩 다르고 각각의 경험을 기반으로 좋은 코드를 정의하고 있다.
+개발자라면 누구나 관심 있어 하는 주제인 만큼 나 또한 여러 고민을 거듭해왔고 여태까지의 생각을 정리해본다.&lt;/p&gt;
+
+&lt;h2 id=&quot;내가-생각하는-좋은-코드란-무엇인가&quot;&gt;내가 생각하는, 좋은 코드란 무엇인가?&lt;/h2&gt;
+
+&lt;h4 id=&quot;1-읽기-쉬운-코드&quot;&gt;1. 읽기 쉬운 코드&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;코드는 작성하는 것 보다 읽는 경우가 더 많다고 한다.&lt;/li&gt;
+  &lt;li&gt;다른 사람이 내 코드를 이해하는 데 들이는 시간을 최소화하여 작성하도록 하자.&lt;/li&gt;
+  &lt;li&gt;적은 분량의 코드를 작성하는 것이 좋은 목표이긴 하나, 너무 함축하진 않도록 하자.&lt;/li&gt;
+  &lt;li&gt;이해를 위한 시간을 최소화하는 게 더 좋은 코드라고 생각한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-중복이-없는-코드&quot;&gt;2. 중복이 없는 코드&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;개발자 만큼 중복을 싫어하는 사람이 있을까?
+(동일한 로직을 수행하는 코드를 보는 순간 불편해지는 것은 나만 그럼?😳)&lt;/li&gt;
+  &lt;li&gt;동일한 로직을 수행하는 A와 B를 수정해야 할 때, A 한 곳만 수정하게 되면 다른 한 곳에서 버그가 발생한다.&lt;/li&gt;
+  &lt;li&gt;또는, 동일한 작업을 수행했던 것을 다른 작업을 수행하도록 로직을 변경해야 한다면? 그러한 동일한 코드가 1억개라면?😱😱😱&lt;/li&gt;
+  &lt;li&gt;이러한 경험에 기반하여 동일한 로직을 수행하는 코드는 별도의 함수로 빼두고 재사용도록 하자. 유지보수가 용이하다!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-오해가-없는-이름들&quot;&gt;3. 오해가 없는 이름들&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;개발을 하면서 로직을 구현하는 것도 어렵지만, 변수명 함수명을 짓는 것이 너무나 고민스러웠다.&lt;/li&gt;
+  &lt;li&gt;너무 길지도 짧지도 않게, 이름만 봐도 어떤 데이터를 담고 있고 어떤 일을 수행하는 함수인지를 나타낼 수 있게!&lt;/li&gt;
+  &lt;li&gt;이렇게 작성하면 이름에서 부터 이 변수와 함수가 어떤 것을 실행하는지 쉽게 추측할 수 있기 때문에 결국 읽기 쉬운 코드가 될 수 있다 생각한다.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Blog" /><category term="Blog" /><category term="jekyll" /><category term="Github" /><category term="Git" /><summary type="html">신입 개발자 기술 면접 준비를 위한 개인 공부 과정을 기록합니다.</summary></entry></feed>
