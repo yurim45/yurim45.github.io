@@ -1,52 +1,25 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
+# MyData
 title: 성장하는 개발자의 개발일기
 email: icho0405@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  긍정적인 생각이 긍정적인 환경을 만든다라는 말을 좋아합니다. 사용자 관점에서 개발하는 프론트엔드 엔지니어입니다. 새로운 무언가를 배우는 것을 즐깁니다.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "yurim45.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+description: 긍정적인 생각이 긍정적인 환경을 만든다라는 말을 좋아합니다. 사용자 관점에서 개발하는 프론트엔드 엔지니어입니다. 새로운 무언가를 배우는 것을 즐깁니다.
+url: "https://yurim45.github.io"
+baseurl: /
 github_username: yurim45
+
+favicon: assets/built/images/favicon.jpg
+# favicon으로 사용할 image
+
+# cover: assets/built/images/blog-cover1.png
+# blog home에 표시될 blog cover image.
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+paginate: 20
+# Disqus
+# disqus: True
+# disqus_shortname:
+# disqus는 온라인 댓글 시스템. 댓글 기능을 사용하기 위해
+# disqus를 이용할 것인지 여부와 만약 사용하면
+# disqus shortname을 입력 ( disqus username이 아님 )
