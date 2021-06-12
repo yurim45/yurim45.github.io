@@ -58,10 +58,14 @@ last_modified_at: 2021-06-12
 > 즉, 프로세스의 한계를 해결하기 위해 만들어진 개념이 스레드다. <br />
 > 스레드는 프로세스의 코드에 정의된 절차에 따라 실행되는 특정한 수행 경로다.
 
-<img alt="프로세스와 스레드" src="https://mblogthumb-phinf.pstatic.net/MjAxODAzMDFfMTkz/MDAxNTE5ODM5NTQ4MTQ2.kFxrV0b3md0ukj58I4_Us7IILfMx2h-Sm7Eo_mB8O90g.J9MYHCS2xFR9uNw0uDl-WZ5iGaiQAEFC-aLiZ8uktq4g.PNG.gjcka1234/ccc.png?type=w800" width="450px" ></img><br/>
+<br/>
 
-조금 더 자세히 풀어보면,
+<img alt="프로세스와 스레드" src="https://mblogthumb-phinf.pstatic.net/MjAxODAzMDFfMTkz/MDAxNTE5ODM5NTQ4MTQ2.kFxrV0b3md0ukj58I4_Us7IILfMx2h-Sm7Eo_mB8O90g.J9MYHCS2xFR9uNw0uDl-WZ5iGaiQAEFC-aLiZ8uktq4g.PNG.gjcka1234/ccc.png?type=w800" width="450px" ></img><br/><br/><br/>
+
+조금 더 자세히 풀어보면,<br />
 프로세스가 메모리에 올라갈 때 운영체제로부터 시스템 자원을 할당받는데 이 때 운영체제는 프로세스마다 각각 독립된 메모리 영역을, Code/Data/Stack/Heap의 형식으로 할당해 준다. 각각 독립된 메모리 영역을 할당해 주기 때문에 프로세스는 다른 프로세스의 변수나 자료에 접근할 수 없다.
+
+<img alt="프로세스와 스레드" src="https://mblogthumb-phinf.pstatic.net/MjAyMTAyMTJfNDAg/MDAxNjEzMDkwNTAwNzUx.U6zKvhdRN2gYtKGt5AALFXqYN0q1AuTKm0M7fPoU9Hgg.BZwEYW1xssghygqW26FRufRvkAx_-NOd3URYWBPFNSwg.PNG.simple6192/image.png?type=w2" width="600px" ></img><br/><br/><br/>
 
 반면 스레드는 메모리를 서로 공유할 수 있다. 조금 더 자세히 풀어보면, 프로세스가 할당받은 메모리 영역 내에서 Stack 형식으로 할당된 메모리 영역은 따로 할당받고, 나머지 Code/Data/Heap 형식으로 할당된 메모리 영역을 공유한다. 따라서 각각의 스레드는 별도의 스택을 가지고 있지만 힙 메모리는 서로 읽고 쓸 수 있게 된다.
 
