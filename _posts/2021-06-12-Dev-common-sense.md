@@ -47,7 +47,7 @@ last_modified_at: 2021-06-12
 
 ### 프로세스 → 스레드
 
-과거에는 프로그램 실행 시작부터 실행 종료까지 하나의 프로세스 만으로 진행되었다고 한다. 하지만 시간이 흐를수록 프로그램은 복잡 해 졌고 하나의 프로세스로 실행 시키기에는 벅차게 되었다. 실제로 프로그램이 하나의 작업만 실행하는 경우는 없다. 그럼 어떻게 해야할까?
+과거에는 프로그램 실행 시작부터 실행 종료까지 하나의 프로세스 만으로 진행되었다고 한다. 하지만 시간이 흐를수록 프로그램은 복잡해졌고 하나의 프로세스로 실행 시키기에는 벅차게 되었다. 실제로 프로그램이 하나의 작업만 실행하는 경우는 없다. 그럼 어떻게 해야할까?
 
 프로세스를 여러개 실행하면 되지 않을까? 라고 생각할 수 있지만 불가능했다. 왜냐하면 운영체제는 안전성을 위해서 프로세스마다 자신에게 할당된 메모리 내의 정보에만 접근할 수 있도록 제약을 두고 있고, 이를 벗어나는 정보에 접근하려면 오류가 발생하기 때문이다.
 
@@ -58,12 +58,12 @@ last_modified_at: 2021-06-12
 
 <br/>
 
-<img alt="프로세스와 스레드" src="https://mblogthumb-phinf.pstatic.net/MjAxODAzMDFfMTkz/MDAxNTE5ODM5NTQ4MTQ2.kFxrV0b3md0ukj58I4_Us7IILfMx2h-Sm7Eo_mB8O90g.J9MYHCS2xFR9uNw0uDl-WZ5iGaiQAEFC-aLiZ8uktq4g.PNG.gjcka1234/ccc.png?type=w800" width="450px" ></img><br/><br/><br/>
+<img alt="프로세스와 스레드" src="https://mblogthumb-phinf.pstatic.net/MjAxODAzMDFfMTkz/MDAxNTE5ODM5NTQ4MTQ2.kFxrV0b3md0ukj58I4_Us7IILfMx2h-Sm7Eo_mB8O90g.J9MYHCS2xFR9uNw0uDl-WZ5iGaiQAEFC-aLiZ8uktq4g.PNG.gjcka1234/ccc.png?type=w800" width="600px" /><br/><br/><br/>
 
 조금 더 자세히 풀어보면,<br />
 프로세스가 메모리에 올라갈 때 운영체제로부터 시스템 자원을 할당받는데 이 때 운영체제는 프로세스마다 각각 독립된 메모리 영역을, Code/Data/Stack/Heap의 형식으로 할당해 준다. 각각 독립된 메모리 영역을 할당해 주기 때문에 프로세스는 다른 프로세스의 변수나 자료에 접근할 수 없다.
 
-<img alt="프로세스와 스레드" src="https://mblogthumb-phinf.pstatic.net/MjAyMTAyMTJfNDAg/MDAxNjEzMDkwNTAwNzUx.U6zKvhdRN2gYtKGt5AALFXqYN0q1AuTKm0M7fPoU9Hgg.BZwEYW1xssghygqW26FRufRvkAx_-NOd3URYWBPFNSwg.PNG.simple6192/image.png?type=w2" width="600px" ></img><br/><br/><br/>
+<img alt="프로세스와 스레드" src="https://mblogthumb-phinf.pstatic.net/MjAyMTAyMTJfNDAg/MDAxNjEzMDkwNTAwNzUx.U6zKvhdRN2gYtKGt5AALFXqYN0q1AuTKm0M7fPoU9Hgg.BZwEYW1xssghygqW26FRufRvkAx_-NOd3URYWBPFNSwg.PNG.simple6192/image.png?type=w2" width="800px" /><br/><br/><br/>
 
 반면 스레드는 메모리를 서로 공유할 수 있다. 조금 더 자세히 풀어보면, 프로세스가 할당받은 메모리 영역 내에서 Stack 형식으로 할당된 메모리 영역은 따로 할당받고, 나머지 Code/Data/Heap 형식으로 할당된 메모리 영역을 공유한다. 따라서 각각의 스레드는 별도의 스택을 가지고 있지만 힙 메모리는 서로 읽고 쓸 수 있게 된다.
 
@@ -88,7 +88,7 @@ last_modified_at: 2021-06-12
 
 ---
 
-## <p style="background:lightgray">🎁 참고</p>
+🎁 참고
 
 ### 메모리 영역
 
