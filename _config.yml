@@ -1,27 +1,12 @@
-# # Site Author
-# author:
-#   name: "성장하는 개발자🚀"
-#   avatar: "/assets/images/main_photo.PNG"
-#   bio: "🌈주니어 개발자의 성장 기록s"
-#   location: "South Korea"
-#   email:
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: mailto:icho0405@gmail.com
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://velog.io/@april_5"
-
 # MyData
-title: 성장하는 개발자의 기록s
+title: 🌈 성장하는 개발자의 기록s
 email: icho0405@gmail.com
 description: 긍정적인 생각이 긍정적인 환경을 만든다라는 말을 좋아합니다. 사용자 관점에서 개발하는 프론트엔드 엔지니어입니다. 새로운 무언가를 배우는 것을 즐깁니다.
 url: "https://yurim45.github.io"
 baseurl: /
 github_username: yurim45
 
-favicon: assets/built/images/favicon.jpg
+# favicon: assets/built/images/favicon.jpg
 # favicon으로 사용할 image
 
 # cover: assets/built/images/blog-cover1.png

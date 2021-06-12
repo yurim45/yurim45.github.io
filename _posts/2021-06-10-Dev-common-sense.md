@@ -10,6 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
+permalink: /cs/
+
 date: 2021-06-10
 last_modified_at: 2021-06-12
 ---
