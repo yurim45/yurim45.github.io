@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 
 date: 2021-06-10
-last_modified_at: 2021-06-10
+last_modified_at: 2021-06-12
 ---
 
 # 🌈 좋은 코드란 무엇인가?
