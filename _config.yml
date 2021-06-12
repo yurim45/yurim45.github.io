@@ -31,7 +31,8 @@ favicon: assets/built/images/favicon.jpg
 theme: minima
 plugins:
   - jekyll-feed
-paginate: 20
+paginate: 5 # 첫 페이지에보여줄 최근 게시물 수를 지정
+paginate_path: /page:num/
 # Disqus
 # disqus: True
 # disqus_shortname:
