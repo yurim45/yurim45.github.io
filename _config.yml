@@ -1,17 +1,17 @@
-# Site Author
-author:
-  name: "성장하는 개발자🚀"
-  avatar: "/assets/images/main_photo.PNG"
-  bio: "🌈주니어 개발자의 성장 기록s"
-  location: "South Korea"
-  email:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:icho0405@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://velog.io/@april_5"
+# # Site Author
+# author:
+#   name: "성장하는 개발자🚀"
+#   avatar: "/assets/images/main_photo.PNG"
+#   bio: "🌈주니어 개발자의 성장 기록s"
+#   location: "South Korea"
+#   email:
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: mailto:icho0405@gmail.com
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://velog.io/@april_5"
 
 # MyData
 title: 성장하는 개발자의 기록s
