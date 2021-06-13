@@ -12,6 +12,12 @@ github_username: yurim45
 # cover: assets/built/images/blog-cover1.png
 # blog home에 표시될 blog cover image.
 
+exclude:
+  - _post/cs
+  - _post/study
+  - _post/projects
+  - _post/about
+
 # Build settings
 theme: minima
 plugins:
