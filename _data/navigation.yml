@@ -2,10 +2,8 @@
 main:
   - title: "DevCS"
     url: /cs/
-  - title: "Javascript"
-    url: "/javascript/"
-  - title: "React"
-    url: "/react/"
+  - title: "Study"
+    url: "/study/"
   - title: "Projects"
     url: /projects/
   - title: "About Me"
