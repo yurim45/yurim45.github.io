@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "DevCS"
+    url: /cs/
+  - title: "Javascript"
+    url: "/javascript/"
+  - title: "React"
+    url: "/react/"
+  - title: "Projects"
+    url: /projects/
+  - title: "About Me"
+    url: "/about/"

@@ -5,11 +5,10 @@ categories:
   - Blog
 tags:
   - [Blog, jekyll, Github, Git, 좋은 코드]
+permalink: /cs/
 
 toc: true
 toc_sticky: true
-
-permalink: /cs/
 
 date: 2021-06-10
 last_modified_at: 2021-06-12
