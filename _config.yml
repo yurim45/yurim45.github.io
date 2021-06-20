@@ -1,32 +1,39 @@
-# MyData
-title: 🌈 성장하는 개발자의 기록s
+title: 🌈 주니어 개발자의 ::devlog:: 🚀
+description: It is a technical blog of junior developers developing from the user's point of view.
+author: Yurim Kim
+avatar: /logo.png
 email: icho0405@gmail.com
-description: 긍정적인 생각이 긍정적인 환경을 만든다라는 말을 좋아합니다. 사용자 관점에서 개발하는 프론트엔드 엔지니어입니다. 새로운 무언가를 배우는 것을 즐깁니다.
-url: "https://yurim45.github.io"
-baseurl: /
-github_username: yurim45
 
-# favicon: assets/built/images/favicon.jpg
-# favicon으로 사용할 image
-
-# cover: assets/built/images/blog-cover1.png
-# blog home에 표시될 blog cover image.
-
-exclude:
-  - _post/cs
-  - _post/study
-  - _post/projects
-  - _post/about
-
-# Build settings
-theme: minima
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
-paginate: 5 # 첫 페이지에보여줄 최근 게시물 수를 지정
-paginate_path: /page:num/
-# Disqus
-# disqus: True
-# disqus_shortname:
-# disqus는 온라인 댓글 시스템. 댓글 기능을 사용하기 위해
-# disqus를 이용할 것인지 여부와 만약 사용하면
-# disqus shortname을 입력 ( disqus username이 아님 )
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# google_analytics: 
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+# Jekyll SEO Tag (Optional)
+# =========================
+# twitter:
+#   username: ngzhio
+#   card: summary
+logo: logo.png
+social:
+  name: Yurim Kim
+  links:
+    - https://www.instagram.com/yurim4545/
+    - https://github.com/yurim45
+# google_site_verification: 
+lang: ko
