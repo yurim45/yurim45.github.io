@@ -1,8 +1,5 @@
 ---
 title: "💡좋은 코드란?"
-
-categories:
-  - Blog
 tags:
   - [Blog, jekyll, Github, Git, 좋은 코드]
 permalink: /cs/
