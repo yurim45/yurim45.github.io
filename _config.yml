@@ -1,4 +1,4 @@
-title: 🌈 주니어 개발자의 ::devlog:: 🚀
+title: 주니어 개발자의 ::devlog::
 description: It is a technical blog of junior developers developing from the user's point of view.
 author: Yurim Kim
 avatar: /logo.png
@@ -13,7 +13,7 @@ plugins:
 paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
-# google_analytics: 
+# google_analytics:
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 # disqus:
 
@@ -33,7 +33,8 @@ logo: logo.png
 social:
   name: Yurim Kim
   links:
-    - https://www.instagram.com/yurim4545/
     - https://github.com/yurim45
-# google_site_verification: 
+    - https://www.instagram.com/yurim4545/
+    - https://velog.io/@april_5
+# google_site_verification:
 lang: ko
