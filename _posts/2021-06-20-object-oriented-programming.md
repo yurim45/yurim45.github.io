@@ -48,4 +48,4 @@ OOP의 경우 클래스에 하나의 문제 해결을 위해 데이터를 모아
 - **메소드**(=행동) ex) 시간이 지나면 붕어빵이 익는다
 - **객체(인스턴스)** 각 데이터가 들어간 붕어빵
 
-<img alt="붕어빵" src="/images/pngegg.png" width="500px" /><br/><br/><br/>
+<img alt="붕어빵" src="https://images.velog.io/images/april_5/post/e92acfe9-b595-4fe7-8d12-50f69d696fed/pngegg.png" width="300px" /><br/>
