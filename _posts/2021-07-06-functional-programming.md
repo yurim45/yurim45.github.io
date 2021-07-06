@@ -1,7 +1,7 @@
 ---
 title: "💡함수형 프로그래밍 fp"
 tags:
-  - [fp, functional programming, Gitlab]
+  - [fp, functional programming]
 permalink: /cs/
 
 navigation: true
