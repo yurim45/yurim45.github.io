@@ -14,6 +14,8 @@ last_modified_at: 2021-06-20
 
 `주니어 개발자의 개인 공부 과정을 기록합니다.`
 
+> **패러다임**: 프로그래밍 패러다임은 개발자에게 <span style="color:blue">**프로그래밍의 관점을 갖게하고 결정하는 역할**</span>을 한다
+
 # 객체 지향 프로그래밍(OOP: Object Oriented Programming)
 
 ## 객체 지향 프로그래밍이란?

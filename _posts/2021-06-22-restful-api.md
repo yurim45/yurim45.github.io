@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 
 date: 2021-06-22
-last_modified_at: 2021-06-22
+last_modified_at: 2021-07-06
 ---
 
 `주니어 개발자의 개인 공부 과정을 기록합니다.`
@@ -73,3 +73,15 @@ last_modified_at: 2021-06-22
 
 - 정보를 주고받는 데에 있어서 개발자들 사이에 널리 쓰이는 일종의 형식
 - 각 요청이 어떤 동작이나 정보를 위한 것인가를 그 요청의 모습 자체로 추론 가능하다
+
+✔️ RESTful 하게 API를 디자인 한다는 것은?
+
+- `리소스`와 `행위`를 명시적이고 직관적으로 분리한다.
+  - `리소스`는 `URI`로 표현되는데 리소스가 가리키는 것은 명사로 표현되어야 한다.
+  - `행위`는 `HTTP Method`로 표현하고, GET(조회), POST(생성), PUT(기존 entity 전체 수정), PATCH(기존 entity 일부 수정), DELETE(삭제)을 분명한 목적으로 사용한다.
+- `Message`는 `Header`와 `Body`를 명확하게 분리해서 사용한다.
+  - `Entity`에 대한 내용은 `body`에 담는다.
+  - 애플리케이션 서버가 행동할 판단의 근거가 되는 컨트롤 정보인 `API 버전 정보`, 응답받고자 하는 `MIME 타입` 등은 `header` 에 담는다.
+  - header와 body는 http header 와 http body 로 나눌 수도 있고, http body 에 들어가는 json 구조로 분리할 수도 있다.
+- 서버와 클라이언트가 같은 방식을 사용해서 요청하도록 한다.
+  - 브라우저는 form-data 형식의 submit 으로 보내고 서버에서는 json 형태로 보내는 식의 분리보다는 json 으로 보내든, 둘 다 form-data 형식으로 보내든 하나로 통일한다.
