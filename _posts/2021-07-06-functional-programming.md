@@ -2,7 +2,7 @@
 title: "💡함수형 프로그래밍 fp"
 tags:
   - [fp, functional programming]
-permalink: /cs/
+permalink: /
 
 navigation: true
 toc: true

@@ -2,7 +2,7 @@
 title: "💡gitHub vs Gitlab"
 tags:
   - [Blog, jekyll, Github, Git, gitHub, Gitlab]
-permalink: /cs/
+permalink: /
 
 navigation: true
 toc: true
