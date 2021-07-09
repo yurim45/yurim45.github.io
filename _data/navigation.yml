@@ -1,9 +1,9 @@
 - title: Home
   url: /
-- title: DevCS
-  url: /cs
-- title: Study
-  url: /study
+# - title: DevCS
+#   url: /cs
+# - title: Study
+#   url: /study
 # - title: Categories
 #   url: /categories/
 - title: About
