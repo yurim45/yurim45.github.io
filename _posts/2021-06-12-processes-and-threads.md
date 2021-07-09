@@ -2,7 +2,7 @@
 title: "💡프로세스와 스레드"
 tags:
   - [Blog, jekyll, Github, Git, 프로세스와 스레드]
-permalink: /
+permalink: cs
 
 navigation: true
 toc: true
