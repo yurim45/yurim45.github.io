@@ -1,8 +1,8 @@
 ---
 title: "💡자료구조"
 tags:
-  - [data structure]
-permalink: /cs
+  - [CS, data structure]
+permalink: /cs/datastructure
 
 navigation: true
 toc: true

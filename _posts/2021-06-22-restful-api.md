@@ -1,7 +1,7 @@
 ---
 title: "💡RESTful API"
 tags:
-  - [Blog, jekyll, Github, Git, RESTful API]
+  - [CS, RESTful API]
 permalink: /cs/RESTfulAPI
 
 navigation: true

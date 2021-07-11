@@ -1,7 +1,7 @@
 ---
 title: "💡프로세스와 스레드"
 tags:
-  - [Blog, jekyll, Github, Git, 프로세스와 스레드]
+  - [CS, 프로세스와 스레드]
 permalink: /cs/processesandthreads
 
 navigation: true

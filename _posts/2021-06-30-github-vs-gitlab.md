@@ -1,8 +1,8 @@
 ---
 title: "💡gitHub vs Gitlab"
 tags:
-  - [Blog, jekyll, Github, Git, gitHub, Gitlab]
-permalink: /cs
+  - [CS, Git, gitHub, Gitlab]
+permalink: /cs/gitHubandGitlab
 
 navigation: true
 toc: true
