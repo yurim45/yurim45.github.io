@@ -2,7 +2,7 @@
 title: "💡RESTful API"
 tags:
   - [Blog, jekyll, Github, Git, RESTful API]
-permalink: /cs
+permalink: /cs/RESTfulAPI
 
 navigation: true
 toc: true
