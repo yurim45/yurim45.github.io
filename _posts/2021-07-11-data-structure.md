@@ -1,7 +1,7 @@
 ---
 title: "💡자료구조"
 tags:
-  - [Mdata structure]
+  - [data structure]
 permalink: /cs
 
 navigation: true
