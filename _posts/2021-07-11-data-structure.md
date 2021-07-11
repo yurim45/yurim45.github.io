@@ -24,6 +24,7 @@ last_modified_at: 2021-07-11
 
 ### 1. 배열
 >데이터를 빈틈없이 나열한 자료구조.
+
 - 데이터의 순서가 고정되어 있다
 - 배열의 종류
   - **1차원 배열**: 일직선 상에 데이터를 나열
@@ -35,6 +36,7 @@ last_modified_at: 2021-07-11
 
 ### 2. 리스트(linked list)
 >데이터를 순서대로 나열한 자료구조.
+
 - 배열과 같이 차례대로 나열한 데이터를 관리한다.
 - 그러나 데이터들이 <span style="color:dodgerblue">**화살표로 서로 연결되어 있어 데이터들이 떨어진 장소에 위치해도 된다**</span>는 점이 배열과는 다르다.
 - 리스트의 종류
@@ -49,7 +51,9 @@ last_modified_at: 2021-07-11
 
 ![](https://images.velog.io/images/april_5/post/b1d1c415-e0d8-4af0-be0d-33155e47b618/image.png)
 
-<span style="font-size:10px">이미지: [[자료구조] C - 링크드리스트, LInkedList](https://blog.geusan.com/28)</span>
+
+이미지: [[자료구조] C - 링크드리스트, LInkedList](https://blog.geusan.com/28)
+
 
 > N번째 요소의 참조가 빠른 것은 배열, 느린 것은 리스트 구조.<br />
 데이터의 삽입 삭제가 빠른 것은 리스트 구조, 느린 것은 배열
@@ -57,12 +61,14 @@ last_modified_at: 2021-07-11
 
 ### 3. 스택(stack)
 >책상 위에 책을 쌓듯 데이터를 관리하는 자료구조
+
 - FILO(First In Last Out), LIFO(Last In First Out)
 - 데이터를 넣는(쌓는) 작업을 푸시(PUSH)
 - 데이터를 꺼내는 작업을 팝(POP)
 
 ### 4. 큐(queue)
 >대기 행렬. 데이터를 넣은 순서대로 데이터를 꺼내는 데이터 관리 방법
+
 - FIFO(First In First Out), LILO(Last In Last Out)
 - 큐에서는 중간에 끼어들거나
 - 순서를 어기고 새치기 하는 행동은 허용되지 않는다.
@@ -74,7 +80,8 @@ last_modified_at: 2021-07-11
 >나무가지가 2개, 3개, ...로 갈라지고, 그 갈라진 끝에서 2개, 3개, ... 나뉘듯 펴져 나가는 자료구조.
 
 ![](https://mblogthumb-phinf.pstatic.net/20140219_285/4717010_13927847504767z2aF_PNG/350px-Sorted_binary_tree_svg.png?type=w2)
-<span style="font-size:10px">이미지: [자료구조-트리의 기본 개념/용어](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=4717010&logNo=60209552604)</span>
+
+이미지: [자료구조-트리의 기본 개념/용어](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=4717010&logNo=60209552604)
 
 - 트리의 종류
   - **이진 트리(바이너리 트리)**: 부모 하나에서 자식 둘이 딸린 구조
