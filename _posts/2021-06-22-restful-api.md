@@ -1,7 +1,7 @@
 ---
 title: "💡RESTful API"
 tags:
-  - [CS, RESTful API]
+  - [CS]
 permalink: /cs/RESTfulAPI
 
 navigation: true

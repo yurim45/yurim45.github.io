@@ -1,7 +1,7 @@
 ---
 title: "💡프로세스와 스레드"
 tags:
-  - [CS, 프로세스와 스레드]
+  - [CS]
 permalink: /cs/processesandthreads
 
 navigation: true

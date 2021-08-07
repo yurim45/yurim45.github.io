@@ -1,7 +1,7 @@
 ---
 title: "💡자료구조"
 tags:
-  - [CS, data structure]
+  - [CS]
 permalink: /cs/datastructure
 
 navigation: true

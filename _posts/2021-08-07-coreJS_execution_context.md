@@ -1,7 +1,7 @@
 ---
 title: "🐯CoreJS :: 실행 컨텍스트"
 tags:
-  - [Javascript, execution context]
+  - [Javascript]
 permalink: /study/JS/execution_context
 
 navigation: true

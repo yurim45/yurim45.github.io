@@ -1,7 +1,7 @@
 ---
 title: "💡gitHub vs Gitlab"
 tags:
-  - [CS, Git, gitHub, Gitlab]
+  - [CS]
 permalink: /cs/gitHubandGitlab
 
 navigation: true
