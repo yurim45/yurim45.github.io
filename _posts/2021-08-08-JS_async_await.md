@@ -20,6 +20,7 @@ last_modified_at: 2021-08-08
 
 ### :: `syntactic sugar`
 async와 await은 새로운 것이 추가된 게 아니라 기존에 존재하는 promise위에 조금 더 간편한 API를 제공하는데, 
+
 이렇게 기존에 존재하는 것 위에 또는 기존에 존재하는 것을 감싸서 조금 더 간편하게 쓸수있는 API를 제공하는 것을 <span style="color:hotpink">**syntactic sugar**</span>라 한다
 
 ---
@@ -101,6 +102,7 @@ pickFruits().then(console.log); // 5초 후 🍎 + 🍌
 ### ✨ `await` 병렬 처리 `.all | .race` API
 
 (2)는 (1)이 처리되는 동안 기다릴 필요없이 실행되도 무방한 코드이다.
+
 굳이 (1)이 실행되는 3초 동안 기다릴 것 없이, (1)이 실행될 때 (2)도 실행되면 되는데, 이런 점을 개선시키기 위해 **병렬 처리**를 하게 된다
 
 
@@ -115,7 +117,11 @@ async function pickFruits() {
 
 pickFruits().then(console.log); // 1초 후 🍎 + 🍌
 ```
-그러나 ↑ 위의 코드는 너무 지저분..ㄷㄷ 
+<br />
+<br />
+
+그러나 ↑ 위의 코드는 너무 지저분..ㄷㄷ 🥲🥲🥲🥲🥲
+
 **↓ Promise `.all` API를 이용하면!!**
 ```jsx
 function pickAllFruits() {
@@ -126,6 +132,7 @@ function pickAllFruits() {
 pickAllFruits().then(console.log); // 🍎 + 🍌
 ```
 (1) `.all`이라는 API는 Promise라는 배열을 전달하게 되면, 모든 Promise들이 병렬적으로 모아주는 API
+
 (2) 병렬적으로 다 모은 `fruies=[🍎, 🍌]` 후(then), `join` API를 이용하여 string(문자열)로 변환
 
 **↓ 다른 Promise API `.race`**
@@ -138,5 +145,6 @@ function pickOnlyOne() {
 pickOnlyOne().then(console.log); // 🍌
 ```
 (1) `.race`는 전달된 배열 중 가장 먼저 실행되는 처음 값을 가져옴.
+
 `getBanana`가 `getApple`보다 먼저 값을 리턴하므로 `getBanana`만 전달 함
 
