@@ -1,5 +1,5 @@
 ---
-title: "🐯CoreJS :: 실행 컨텍스트"
+title: "🐯CoreJS:: 실행 컨텍스트"
 tags:
   - [Javascript]
 permalink: /study/JS/execution_context

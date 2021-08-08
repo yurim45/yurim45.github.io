@@ -1,5 +1,5 @@
 ---
-title: "🐯CoreJS :: 콜백 함수"
+title: "🐯CoreJS:: 콜백 함수"
 tags:
   - [Javascript]
 permalink: /study/JS/callbackFunc
