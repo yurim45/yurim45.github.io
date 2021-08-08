@@ -12,6 +12,9 @@ date: 2021-08-08
 last_modified_at: 2021-08-08
 ---
 
+![](https://media.vlpt.us/images/april_5/post/0aa0ff89-a30b-4001-962e-e61626d72573/promise.png)
+
+
 `주니어 개발자의 개인 공부 과정을 기록합니다.`
 
 콜백 함수를 대체해서 깔끔한 코드(가독성↑)를 작성할 수 있도록 도와주는,
