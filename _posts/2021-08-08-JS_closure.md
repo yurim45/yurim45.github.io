@@ -45,7 +45,7 @@ const outer2 = outer();
 console.log(outer2()); // 2
 console.log(outer2()); // 3
 ```
-함수의 실행 컨텍스틑가 종료된 후에도 `LexicalEnvironment`가 **가비지 컬렉터의 수집 대상에서 제외되는 경우**는,
+함수의 실행 컨텍스트가 종료된 후에도 `LexicalEnvironment`가 **가비지 컬렉터의 수집 대상에서 제외되는 경우**는,
 지역변수를 참조하는 내부함수가 외부로 전달된 경우가 유일하다.
 
 가비지 컬렉터는 어떤 값을 참조하는 변수가 하나라도 있다면
