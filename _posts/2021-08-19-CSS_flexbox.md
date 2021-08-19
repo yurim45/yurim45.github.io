@@ -1,5 +1,5 @@
 ---
-title: "🎨CSS:: FLEXBOX FROGGY🐸"
+title: "🎨 CSS:: FLEXBOX FROGGY🐸"
 tags:
   - [CSS]
 permalink: /study/CSS/flexbox
