@@ -56,7 +56,8 @@ last_modified_at: 2021-10-04
 | 소스 코드 | 젼역 변수 | 동적 할당 변수 | 지역 변수|
 |  | 정적 변수 |  | 매개 변수 |
 
-![](https://images.velog.io/images/april_5/post/7f5e56f3-b791-4c43-a5d3-c7653af8c8b2/image.png)
+![](https://images.velog.io/images/april_5/post/e343beba-ba1c-45ee-9d3f-63f89fd4a721/image.png)
+
 
 참고로, `HEAP`과 `STACK`영역은 사실 같은 공간을 공유한다. 
 `HEAP`이 메모리 위쪽 주소부터 할당되면 `STACK`은 아래쪽부터 할당되는 식이다. 그래서 각 영역이 상대 공간을 침범하는 일이 발생할 수 있는데 이를 각각 `HEAP OVERFLOW`, `STACK OVERFLOW`라고 칭한다.
