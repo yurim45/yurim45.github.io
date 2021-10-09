@@ -27,11 +27,12 @@ permalink: /about/
 - 합리적인 의사결정을 할 수 있도록 노력합니다.
 - 솔직하며 직설적인 커뮤니케이션을 선호합니다.
 
-### :: Tech Stack
+### :: Tech Stack 👩🏻‍💻
 
-#### Frontend
+####  🌈 Frontend
 
-- React/React-native
+- React 
+- React-native
 - Javascript(ES6+)
 - Styled Component/Sass/CSS3
 - HTML5
