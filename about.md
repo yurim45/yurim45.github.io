@@ -29,7 +29,7 @@ permalink: /about/
 
 ### :: Tech Stack 👩🏻‍💻
 
-####  🌈 Frontend
+####  ㅤ🌈 Frontend
 
 - React 
 - React-native
