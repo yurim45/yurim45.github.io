@@ -31,7 +31,7 @@ permalink: /about/
 
 #### Frontend
 
-- React
+- React/React-native
 - Javascript(ES6+)
-- Styled Component/Sass/CSS
-- HTML
+- Styled Component/Sass/CSS3
+- HTML5
