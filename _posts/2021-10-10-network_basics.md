@@ -30,7 +30,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## LESSON 01. 네트워크의 구조
+## <span style="background-color:aquamarine">LESSON 01. 네트워크의 구조</span>
 
 ### 1) 컴퓨터 네트워크란?
 
@@ -63,7 +63,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-##  LESSON 02. 정보의 양을 나타내는 단위
+## <span style="background-color:aquamarine">LESSON 02. 정보의 양을 나타내는 단위</span>
 
 ### 1) 비트와 바이트란?
 
@@ -96,7 +96,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## LESSON 03. 랜(LAN)과 왠(WAN)
+## <span style="background-color:aquamarine">LESSON 03. 랜(LAN)과 왠(WAN)</span>
 
 ### 1) 랜(LAN)과 왠(WAN)의 차이
 
@@ -129,7 +129,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## LESSON 04. 가정에서 하는 랜(LAN)구성
+## <span style="background-color:aquamarine">LESSON 04. 가정에서 하는 랜(LAN)구성</span>
 
 ### 1) 가정에서의 네트워크 구성
 
@@ -145,7 +145,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## LESSON 05. 회사에서 하는 랜(LAN)구성
+## <span style="background-color:aquamarine">LESSON 05. 회사에서 하는 랜(LAN)구성</span>
 
 ### 1) 소규모 회사에서의 네트워크 구성
 
