@@ -17,7 +17,8 @@ last_modified_at: 2021-10-10
 `개인 공부 과정을 기록합니다.`
 
 네트워크는 다양한 기능이 결합되어 있는데, 그 기능은 여러 계층(레이어) 형태로 구성되어 있다. 그 계층 구조를 이해하면 문제가 발생한 원인이 네트워크 장비인지 어플리케이션인지 판단할 수 있다.
-​
+
+
 ---
 ​
 # 🌏 네트워크의 첫걸음
@@ -30,7 +31,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## <span style="background-color:aquamarine">LESSON 01. 네트워크의 구조</span>
+## LESSON 01. 네트워크의 구조
 
 ### 1) 컴퓨터 네트워크란?
 
@@ -63,7 +64,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## <span style="background-color:aquamarine">LESSON 02. 정보의 양을 나타내는 단위</span>
+##  LESSON 02. 정보의 양을 나타내는 단위
 
 ### 1) 비트와 바이트란?
 
@@ -96,7 +97,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## <span style="background-color:aquamarine">LESSON 03. 랜(LAN)과 왠(WAN)</span>
+## LESSON 03. 랜(LAN)과 왠(WAN)
 
 ### 1) 랜(LAN)과 왠(WAN)의 차이
 
@@ -129,7 +130,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## <span style="background-color:aquamarine">LESSON 04. 가정에서 하는 랜(LAN)구성</span>
+## LESSON 04. 가정에서 하는 랜(LAN)구성
 
 ### 1) 가정에서의 네트워크 구성
 
@@ -145,7 +146,7 @@ last_modified_at: 2021-10-10
 
 ---
 
-## <span style="background-color:aquamarine">LESSON 05. 회사에서 하는 랜(LAN)구성</span>
+## LESSON 05. 회사에서 하는 랜(LAN)구성
 
 ### 1) 소규모 회사에서의 네트워크 구성
 
