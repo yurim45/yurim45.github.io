@@ -1,5 +1,5 @@
 ---
-title: "🌏 네트워크의 구성"
+title: "🌏 네트워크 기초 지식:: 네트워크의 구성"
 tags:
   - [network]
 permalink: /network/networkBasics
