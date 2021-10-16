@@ -1,5 +1,5 @@
 ---
-title: "🌏 네트워크 구조 이해:: 물리 계층_ 데이터를 전기 신호로 변환하기"
+title: "🌏 네트워크 구조 이해:: OSI모델의 물리 계층"
 tags:
   - [network]
 permalink: /network/physicalLayer
