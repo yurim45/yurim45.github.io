@@ -1,7 +1,7 @@
 ---
 title: "🌈 자료구조의 개요"
 tags:
-  - [datastructure/algorithm]
+  - [dataㅤstructure/algorithm]
 permalink: /dataStructure
 
 navigation: true
