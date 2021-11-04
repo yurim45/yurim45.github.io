@@ -1,5 +1,5 @@
 ---
-title: "🌏 네트워크 구조 이해:: OSI모델의 데이터 링크 계층"
+title: "🌈 자료구조:: 큐(Queue)"
 tags:
   - [network]
 permalink: /network/dataLinkLayer
