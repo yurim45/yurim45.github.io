@@ -1,7 +1,7 @@
 ---
 title: '🌈 자료구조:: 큐(Queue)'
 tags:
-  - [data-structure💥algorithm]
+  - [dataStructure-algorithm]
 permalink: /dataStructure/queue
 
 navigation: true

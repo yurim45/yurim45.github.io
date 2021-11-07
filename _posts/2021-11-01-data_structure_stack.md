@@ -1,7 +1,7 @@
 ---
 title: '🌈 자료구조:: 스택(Stack)'
 tags:
-  - [data-structure💥algorithm]
+  - [dataStructure-algorithm]
 permalink: /dataStructure/stack
 
 navigation: true

@@ -1,7 +1,7 @@
 ---
 title: '🌈 자료구조:: 스택(Stack) 계산기 만들기'
 tags:
-  - [data-structure💥algorithm]
+  - [dataStructure-algorithm]
 permalink: /dataStructure/stackCalculator
 
 navigation: true

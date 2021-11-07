@@ -1,7 +1,7 @@
 ---
 title: '☀️ 알고리즘:: 정렬 알고리즘_ 선택 정렬과 삽입 정렬'
 tags:
-  - [data-structure💥algorithm]
+  - [dataStructure-algorithm]
 permalink: /algorithm/sort
 
 navigation: true
@@ -13,6 +13,7 @@ last_modified_at: 2021-11-07
 ---
 
 ![]()
+
 ### 🚀 What I Will Learn
 
 - <span style="color:hotpink">**선택 정렬**</span> 의 원리를 이해한다
