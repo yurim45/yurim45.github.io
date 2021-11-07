@@ -2,14 +2,14 @@
 title: '🌈 자료구조:: 큐(Queue)'
 tags:
   - [data-structureㅤalgorithm]
-permalink: /dataStructure/queue
+permalink: /algorithm/sort
 
 navigation: true
 toc: true
 toc_sticky: true
 
-date: 2021-11-04
-last_modified_at: 2021-11-04
+date: 2021-11-07
+last_modified_at: 2021-11-07
 ---
 
 ![]()
