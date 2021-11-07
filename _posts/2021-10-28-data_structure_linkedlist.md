@@ -1,7 +1,7 @@
 ---
 title: '🌈 자료구조:: 연결리스트'
 tags:
-  - [data-structureㅤalgorithm]
+  - [data-structure💥algorithm]
 permalink: /dataStructure/linkedList
 
 navigation: true

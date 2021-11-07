@@ -1,7 +1,7 @@
 ---
 title: '🌈 자료구조:: 양방향 연결 리스트'
 tags:
-  - [data-structureㅤalgorithm]
+  - [data-structure💥algorithm]
 permalink: /dataStructure/doublyLinkedList
 
 navigation: true

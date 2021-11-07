@@ -1,15 +1,15 @@
 ---
 title: '☀️ 알고리즘:: 정렬 알고리즘_ 선택 정렬과 삽입 정렬'
 tags:
-  - [data-structureㅤalgorithm]
-permalink: /dataStructure/queue
+  - [data-structure💥algorithm]
+permalink: /algorithm/sort
 
 navigation: true
 toc: true
 toc_sticky: true
 
-date: 2021-11-04
-last_modified_at: 2021-11-04
+date: 2021-11-07
+last_modified_at: 2021-11-07
 ---
 
 ![]()

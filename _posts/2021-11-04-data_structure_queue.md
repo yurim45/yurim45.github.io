@@ -1,15 +1,15 @@
 ---
 title: '🌈 자료구조:: 큐(Queue)'
 tags:
-  - [data-structureㅤalgorithm]
-permalink: /algorithm/sort
+  - [data-structure💥algorithm]
+permalink: /dataStructure/queue
 
 navigation: true
 toc: true
 toc_sticky: true
 
-date: 2021-11-07
-last_modified_at: 2021-11-07
+date: 2021-11-04
+last_modified_at: 2021-11-04
 ---
 
 ![]()
