@@ -1,5 +1,5 @@
 ---
-title: '☀☀️ 알고리즘:: 퀵 정렬(Quicksort)'
+title: '☀️ 알고리즘:: 퀵 정렬(Quicksort)'
 tags:
   - [dataStructure-algorithm]
 permalink: /algorithm/quicksort
