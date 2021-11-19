@@ -1,5 +1,5 @@
 ---
-title: "🌏 네트워크 구조 이해:: OSI모델의 데이터 링크 계층"
+title: "🌏 네트워크 구조 이해:: OSI모델의 네트워크 계층"
 tags:
   - [network]
 permalink: /network/networkLayer
