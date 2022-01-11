@@ -35,10 +35,10 @@ last_modified_at: 2022-01-11
 }
 ```
 
-`overflow: hidden;`: 박스에서 넘쳐난 텍스트 숨기기
-`white-space: nowrap;`: 줄바꿈이 없어짐
-`text-overflow: ellipsis;`: ... 말줄임 효과
-`word-break: break-all;`: 어절이 유지되지 않고 끊어져서 줄바꿈 됨
+`overflow: hidden;`: 박스에서 넘쳐난 텍스트 숨기기 <br />
+`white-space: nowrap;`: 줄바꿈이 없어짐 <br />
+`text-overflow: ellipsis;`: ... 말줄임 효과 <br />
+`word-break: break-all;`: 어절이 유지되지 않고 끊어져서 줄바꿈 됨 <br />
 
 <br />
 
