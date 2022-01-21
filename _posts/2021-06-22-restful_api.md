@@ -2,7 +2,7 @@
 title: "💡RESTful API"
 tags:
   - [CS]
-permalink: /cs/RESTfulAPI
+permalink: /cs/restful_api
 
 navigation: true
 toc: true

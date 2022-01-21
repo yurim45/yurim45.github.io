@@ -1,8 +1,8 @@
 ---
-title: '🌈 자료구조:: 스택(Stack)'
+title: "🌈 자료구조:: 스택(Stack)"
 tags:
   - [dataStructure-algorithm]
-permalink: /dataStructure/stack
+permalink: /data_structure/stack
 
 navigation: true
 toc: true

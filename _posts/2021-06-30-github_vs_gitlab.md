@@ -2,7 +2,7 @@
 title: "💡gitHub vs Gitlab"
 tags:
   - [CS]
-permalink: /cs/gitHubandGitlab
+permalink: /cs/github_and_gitlab
 
 navigation: true
 toc: true

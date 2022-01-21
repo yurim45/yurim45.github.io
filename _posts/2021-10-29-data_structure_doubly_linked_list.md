@@ -1,8 +1,8 @@
 ---
-title: '🌈 자료구조:: 양방향 연결 리스트'
+title: "🌈 자료구조:: 양방향 연결 리스트"
 tags:
   - [dataStructure-algorithm]
-permalink: /dataStructure/doublyLinkedList
+permalink: /data_structure/doubly_linked_list
 
 navigation: true
 toc: true

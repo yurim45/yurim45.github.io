@@ -1,8 +1,8 @@
 ---
-title: '🌈 자료구조:: 연결리스트'
+title: "🌈 자료구조:: 연결리스트"
 tags:
   - [dataStructure-algorithm]
-permalink: /dataStructure/linkedList
+permalink: /data_structure/linked_list
 
 navigation: true
 toc: true

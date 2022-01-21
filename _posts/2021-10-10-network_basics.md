@@ -2,7 +2,7 @@
 title: "🌏 네트워크 기초 지식:: 네트워크의 구성"
 tags:
   - [network]
-permalink: /network/networkBasics
+permalink: /network/network_basics
 
 navigation: true
 toc: true
@@ -46,7 +46,7 @@ last_modified_at: 2021-10-10
 
 웹 사이트를 보는 것도 마찬가지지만 네트워크나 인터넷에서 데이터를 주고 받으려면, 웹 브라우저에서 사진과 문자를 보여주기 위해서는 규칙이 있어야 한다. 그 규칙에는 패킷(packet)을 사용한다
 
-><span style="color:Teal">**패킷(packet)**</span>: 네트워를 통해 전송되는 <span style="color:Teal">**데이터의 작은 조각**</span>. 큰 데이터가 있더라도 작게 나누어서 보내는 게 규칙이다. (패킷 == 택배)
+> <span style="color:Teal">**패킷(packet)**</span>: 네트워를 통해 전송되는 <span style="color:Teal">**데이터의 작은 조각**</span>. 큰 데이터가 있더라도 작게 나누어서 보내는 게 규칙이다. (패킷 == 택배)
 
 작게 나누지 않고 큰 상태 그대로 보내면 번거롭지도 않고 오히려 더 편할 수 있지만,
 큰 데이터를 그대로 보내면 그 데이터가 네트워크의 <span style="color:Teal">**대역폭**</span>을 너무 많이 차지(점유) 해서 <span style="color:Teal">**다른 패킷의 흐름을 막을 위험**</span>이 있다.
@@ -83,14 +83,13 @@ last_modified_at: 2021-10-10
 
 문자 코드중 하나인 ASCII(아스키) 코드는 알파벳, 기호, 숫자 등을 다룰 수 있는 기본적인 문자코드 이다.
 
->ASCII (American Standard Code for Information)
+> ASCII (American Standard Code for Information)
 
 <br />
 
 ### 3) 전기 신호
 
 네트워크에 데이터를 전송하는 경우에는 비트 정보를 전기 신호로 변환하여 전송.
-
 
 <br /><br />
 
@@ -102,28 +101,29 @@ last_modified_at: 2021-10-10
 
 네트워크는 접속할 수 있는 범위에 따라 크게 랜(LAN)과 왠(WAN)으로 나뉜다.
 
-- 랜(LAN): Lacal Area Network. 근거리 통신 망. 
-가정이나 빌딩 안에 있는 사무실 같이 지리적으로 제한된 곳에서 컴퓨터와 프린터를 연결하는 네트워크.
+- 랜(LAN): Lacal Area Network. 근거리 통신 망.
+  가정이나 빌딩 안에 있는 사무실 같이 지리적으로 제한된 곳에서 컴퓨터와 프린터를 연결하는 네트워크.
 
- ![](https://images.velog.io/images/april_5/post/deabfa06-458e-469c-ae45-4dd4277116d8/image.png)
+![](https://images.velog.io/images/april_5/post/deabfa06-458e-469c-ae45-4dd4277116d8/image.png)
 
 - 왠(WAN): Wide Area Network. 광역 통신 망
-지리적으로 넓은 범위에 구축된 네트워크. 예시) 서울 사무실, 부산 사무실
+  지리적으로 넓은 범위에 구축된 네트워크. 예시) 서울 사무실, 부산 사무실
 
- ![](https://images.velog.io/images/april_5/post/fed24ca6-c990-4050-b958-947cbd8ca0bc/image.png)
+![](https://images.velog.io/images/april_5/post/fed24ca6-c990-4050-b958-947cbd8ca0bc/image.png)
 
 - ISP: Internet Service Provider. 인터넷 서비스 제공자.
+
   - 예시) KT, U+, SK브로드밴드 등과 같은 사업자
-  
+
   ISP가 제공하는 서비스를 통해 랜과 랜을 연결할 수 있다. 예시) 서울 사무실과 부산 사무실을 연결
 
 <br />
 
-|  | 랜(LAN) | 왠(WAN) |
-| -- | -- | -- |
+|      | 랜(LAN)                  | 왠(WAN)              |
+| ---- | ------------------------ | -------------------- |
 | 범위 | 좁다(건물이나 특정 지역) | 넓다(랜과 랜을 연결) |
-| 속도 | 빠르다 | 느리다 |
-| 오류 | 적다 | 많다 |
+| 속도 | 빠르다                   | 느리다               |
+| 오류 | 적다                     | 많다                 |
 
 <br /><br />
 
@@ -134,10 +134,11 @@ last_modified_at: 2021-10-10
 ### 1) 가정에서의 네트워크 구성
 
 가정에서 네트워크를 구성하기 위해서는 아래 사항을 결정 후 구성한다
+
 - ISP: 인터넷 서비스 제공자(사업자)
 - 인터넷 회선: 대부분 광랜(광케이블 X)을 사용
 - 인터넷 공유기: 인터넷 공유기는 인터넷 서비스 제공자와 네트워크를 연결해준다.
-인터넷 공유기를 중심으로 내부 인터넷망(사설망)을 구성하고, 다양한 기기를 연결 할 수 있다.
+  인터넷 공유기를 중심으로 내부 인터넷망(사설망)을 구성하고, 다양한 기기를 연결 할 수 있다.
 
 ![](https://images.velog.io/images/april_5/post/608dbd05-2211-4cb3-9a9d-3ca33c766019/image.png)
 
@@ -151,11 +152,12 @@ last_modified_at: 2021-10-10
 
 가정에서의 랜 구성과 눈애 띄게 다른 점은 DMZ(DeMilitarized Zone)라는 네트워크 영역이 있다는 점이다.
 
->**DMZ(DeMilitarized Zone)**: 외부에 공개하기 위한 네트워크.
+> **DMZ(DeMilitarized Zone)**: 외부에 공개하기 위한 네트워크.
 
 <span style="color:Teal">**외부에 무엇을 공개할까?**</span>
 
 서버를 공개하는데 주로 웹 서버, 메일 서버, DNS 서버를 공개하는데
+
 - 웹 사이트를 불특정 다수의 외부 사용자에게 공개하려면 웹 서버를 외부에 공개
 - 외부 사용자와 메일을 주고받으려면 메일 서버를 외부에 공개
 - 외부에서 도메인 이름을 사용하여 회사의 서버에 접속하려면 DNS 서버를 외부에 공개
@@ -164,7 +166,7 @@ last_modified_at: 2021-10-10
 
 회사의 서버는 <span style="color:Teal">**온프레미스**</span>나 <span style="color:Teal">**클라우드**</span>로 운영되고 있다
 
->**온프레미스(on-premise)**: 사내 또는 데이터 센터에 서버를 두고 운영하는것. 클라우드 비교할 때 자주 사용하는 용어.
+> **온프레미스(on-premise)**: 사내 또는 데이터 센터에 서버를 두고 운영하는것. 클라우드 비교할 때 자주 사용하는 용어.
 
 <br /><br />
 

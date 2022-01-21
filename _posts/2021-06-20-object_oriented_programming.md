@@ -2,7 +2,7 @@
 title: "💡객체지향 프로그래밍(OOP)"
 tags:
   - [CS]
-permalink: /cs/OOP
+permalink: /cs/oop
 
 navigation: true
 toc: true
