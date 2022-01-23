@@ -29,10 +29,11 @@ permalink: /about/
 
 ### :: Tech Stack 👩🏻‍💻
 
-####  ㅤ🌈 Frontend
+#### ㅤ🌈 Frontend
 
-- React 
+- React
 - React-native
+- Typescript
 - Javascript(ES6+)
 - Styled Component/Sass/CSS3
 - HTML5
