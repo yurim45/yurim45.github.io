@@ -160,7 +160,7 @@ const cc: ColorfulCircle = {
 
 ---
 
-## Intersection Types
+## 교차 타입 (Intersection Types)
 
 `interfaces`를 사용하면 <span style='color:mediumseagreen'>**다른 유형을 확장하여 다른 유형에서 새 유형을 구축**</span>할 수 있다. Intersection Types은 `&`연산자를 사용하여 정의한다.
 
