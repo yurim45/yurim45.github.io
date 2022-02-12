@@ -245,3 +245,13 @@ class Routes extends React.Component {
   }
 }
 ```
+
+<br />
+
+---
+
+✅ 목표!
+
+- SPA의 개념에 대해 이해하고
+- `router`가 무엇이고 왜 써야 하는지,
+- `router` 사용 방법에 대해 익히자
