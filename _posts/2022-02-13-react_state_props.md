@@ -14,8 +14,6 @@ last_modified_at: 2022-02-13
 
 ![](https://images.velog.io/images/april_5/post/707c8c3b-7893-4776-890a-bd897bb78728/React.png)
 
-`개인 공부를 위해 작성했습니다`
-
 ## ○ State🔅 & Event
 
 > state : 상태
