@@ -2,7 +2,7 @@
 title: "🚀React:: React Lifecycle & 조건부 렌더링"
 tags:
   - [React]
-permalink: /study/react/lifeCycle
+permalink: /study/react/life_cycle
 
 navigation: true
 toc: true
