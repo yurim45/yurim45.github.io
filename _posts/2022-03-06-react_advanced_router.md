@@ -22,7 +22,6 @@ last_modified_at: 2022-03-06
 - `offset` 과 `limit` 개념을 사용하여 페이지네이션 기능을 구현할 수 있다
 
 <br />
-<br />
 
 ---
 
