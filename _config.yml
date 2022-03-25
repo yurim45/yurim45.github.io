@@ -3,6 +3,7 @@ description: It is a technical blog of junior developers developing from the use
 author: Yurim Kim
 avatar: /logo.png
 email: icho0405@gmail.com
+futrue: true
 
 plugins:
   - jekyll-seo-tag
