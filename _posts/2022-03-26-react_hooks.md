@@ -1,6 +1,6 @@
 ---
 published: true
-title: "🚀React:: React Hooks:: useCallback()과 useMemo(), React.memo"
+title: "🚀React Hooks:: useCallback()과 useMemo(), React.memo"
 tags:
   - [React]
 permalink: /study/react/hooks
