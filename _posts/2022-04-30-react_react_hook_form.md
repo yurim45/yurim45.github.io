@@ -3,7 +3,7 @@ published: true
 title: "React Hook Form | 기본"
 tags:
   - [React]
-permalink: /study/react/lib/react-hook-form
+permalink: /study/react/react-hook-form
 
 navigation: true
 toc: true

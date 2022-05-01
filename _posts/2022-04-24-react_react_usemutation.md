@@ -20,7 +20,7 @@ last_modified_at: 2022-04-24
 
 <br />
 
-## [공식문서](https://react-query.tanstack.com/reference/useMutation) 로 확인하기
+## [공식문서](https://react-query.tanstack.com/reference/useMutation)로 확인하기
 
 ```js
 const {
