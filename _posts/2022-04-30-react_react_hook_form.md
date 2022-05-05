@@ -21,7 +21,9 @@ last_modified_at: 2022-04-30
 
 ### ✔️ React Hook Form 설치
 
-```bash
+```shell
+yarn add react-hook-form
+// or
 npm install react-hook-form
 ```
 
