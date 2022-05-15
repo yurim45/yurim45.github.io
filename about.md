@@ -31,6 +31,7 @@ permalink: /about/
 
 #### ㅤ🌈 Frontend
 
+- Nextjs
 - React
 - React-native
 - Typescript
